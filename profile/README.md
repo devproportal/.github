@@ -8,10 +8,10 @@ Welcome to the heart of the **Stonehenge EdTech** ecosystem. Led by a CTO with 2
 ### 🌐 Our Brand Matrix
 We operate four specialized pillars designed for different professional and educational trajectories:
 
-* **[DevPro Portal](https://DevProPortal.com)**: A comprehensive **Engineering Resource** hub featuring 5,000+ technical guides, system design patterns, and developer productivity toolkits.
-* **[CertDevPro](https://CertDevPro.com)**: Our flagship **Certification Mastery** hub, providing architect-level roadmaps for AI, Cloud (AWS/Azure), Security, and PMP.
-* **[Finance Cert Pro](https://FinanceCertPro.com)**: High-end financial certification prep and **Quantitative Analysis** for elite CFA, FRM, and Quant professionals.
+* **[DevPro Portal](https://DevProPortal.com)**: A comprehensive **Engineering Resource** hub featuring 5861+ technical guides, system design patterns, and toolkits.
+* **[Cert DevPro](https://CertDevPro.com)**: Our flagship **Certification Mastery** hub, providing architect-level roadmaps for AI, Cloud (AWS/Azure), Security, and PMP.
 * **[Stem Expert Pro](https://StemExpertPro.com)**: Elite **Logic & STEM Competition** training (USACO, AMC, Robotics) for the next generation of innovators.
+* **[Finance Cert Pro](https://FinanceCertPro.com)**: High-end financial certification prep and **Quantitative Analysis** for elite CFA, FRM, and Quant professionals.
 
 ---
 
