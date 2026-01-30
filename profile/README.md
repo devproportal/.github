@@ -6,12 +6,37 @@ Welcome to the heart of the **Stonehenge EdTech** ecosystem. Led by a CTO with 2
 ---
 
 ### 🌐 Our Brand Matrix
-We operate four specialized pillars designed for different professional and educational trajectories:
 
-* **[DevPro Portal](https://DevProPortal.com)**: A comprehensive **Engineering Resource** hub featuring 5861+ technical guides, system design patterns, and toolkits.
-* **[Cert DevPro](https://CertDevPro.com)**: Our flagship **Certification Mastery** hub, providing architect-level roadmaps for AI, Cloud (AWS/Azure), Security, and PMP.
-* **[Stem Expert Pro](https://StemExpertPro.com)**: Elite **Logic & STEM Competition** training (USACO, AMC, Robotics) for the next generation of innovators.
-* **[Finance Cert Pro](https://FinanceCertPro.com)**: High-end financial certification prep and **Quantitative Analysis** for elite CFA, FRM, and Quant professionals.
+Stonehenge EdTech builds a focused ecosystem of professional education platforms, designed to support long-term career growth from foundational engineering skills to architect-level decision making.
+
+Our approach emphasizes **structured reasoning, real-world trade-offs, and professional credibility** — not shortcuts or exam dumps.
+
+#### 🌐 Flagship Platform
+
+* **[CloudCertPro.com](https://CloudCertPro.com)**  
+  An architect-focused **Cloud Certification & Career Platform** for AWS, Azure, and Google Cloud.  
+  CloudCertPro delivers:
+  - Deep-dive certification exam analysis (SAA, SAP, and beyond)
+  - Architecture decision logic mapped to real enterprise scenarios
+  - Career-oriented learning paths for cloud and solution architects  
+  Built for professionals who want to **understand cloud architecture, not just pass exams**.
+
+#### 🧩 Emerging Platforms (Under Active Development)
+
+These platforms are currently in active development, with early-access landing pages and curated mailing lists for future releases.
+
+* **[DevProPortal.com](https://DevProPortal.com)**  
+  A forthcoming **Engineering Knowledge Hub** for system design, software architecture, and developer tooling — bridging the gap between coding skills and architectural thinking.
+
+* **[CareerCertPro.com](https://CareerCertPro.com)**  
+  A **Professional Career Certification Platform** covering PMP, Agile, ITIL, and leadership-oriented certifications.  
+  Focused on certification strategy, real-world application, and long-term career leverage rather than rote memorization.
+
+* **[StemExpertPro.com](https://StemExpertPro.com)**  
+  A logic-driven **STEM & competition training platform** (AMC, USACO, Robotics), emphasizing reasoning foundations and problem-solving frameworks.
+
+* **[FinanceCertPro.com](https://FinanceCertPro.com)**  
+  A future **Quantitative Finance & Certification Platform**, targeting CFA, FRM, and advanced financial engineering career paths.
 
 ---
 
@@ -29,8 +54,8 @@ We operate four specialized pillars designed for different professional and educ
 
 ### 🔗 Connect With Us
 - 🌐 **Corporate Portal**: [StonehengeEdTech.com](https://StonehengeEdTech.com)
-- 📚 **IT & Certifications**: [CertDevPro.com](https://CertDevPro.com)
+- 📚 **Cloud Certification & Career Platform**: [CloudCertPro.com](https://CloudCertPro.com)
 - 📩 **Business Inquiries**: [github@stonehengedtech.com](mailto:github@stonehengedtech.com)
 
 ---
-© 2025 Stonehenge EdTech. All Rights Reserved. Built with precision.
+© 2026 Stonehenge EdTech. All Rights Reserved. Built with precision.
